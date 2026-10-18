@@ -11,7 +11,7 @@ I am finishing up my M.S. in computational linguistics at the University of Wash
 ### My interests include (but are not limited to)
 - how sociolinguistic theories can inform the development of language technology,
 - globalization and localization (broadly construed), 
-- data attribution, and
+- data attribution in language models, and
 - structured document summarization
 
 ### Publications
