@@ -9,9 +9,10 @@ I am finishing up my M.S. in computational linguistics at the University of Wash
 
 
 ### My interests include (but are not limited to)
-- how sociolinguistic theories can inform the development of language technology, 
-- globalization and localization (broadly construed), and
-- data effects on LLM systems
+- how sociolinguistic theories can inform the development of language technology,
+- globalization and localization (broadly construed), 
+- data attribution, and
+- structured document summarization
 
 ### Publications
 - _Probing Pretraining "Quality": Sociolinguistic Mobility as a Lens on Web Corpus Filters_. In Proceedings of the EMNLP 2026 Web-as-Corpus Workshop (WaC-13). October 2026. (Poster presentation.)
