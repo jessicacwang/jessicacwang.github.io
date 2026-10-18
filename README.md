@@ -15,7 +15,7 @@ I am finishing up my M.S. in computational linguistics at the University of Wash
 - structured document summarization
 
 ### Publications
-- [_Probing Pretraining "Quality": Sociolinguistic Mobility as a Lens on Web Corpus Filters_.](/assets/manuscript.pdf){:target="_blank"} In Proceedings of the EMNLP 2026 Web-as-Corpus Workshop (WaC-13). October 2026. (Poster presentation.)
+- [_Probing Pretraining "Quality": Sociolinguistic Mobility as a Lens on Web Corpus Filters_.](/assets/probing-pretraining-quality.pdf.pdf){:target="_blank"} In Proceedings of the EMNLP 2026 Web-as-Corpus Workshop (WaC-13). October 2026. (Poster presentation.)
 
 ### Presentations
 - _Sociolinguistic Mobility: A Lens for LLM Pretraining Data Curation_ (poster). New Directions in Analyzing Text as Data, October 2026. _Earlier non-archival presentation of work later published at EMNLP WaC-13 (above)_. 
