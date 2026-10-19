@@ -12,7 +12,7 @@ I am finishing up my M.S. in computational linguistics at the University of Wash
 - how sociolinguistic theories can inform the development of language technology,
 - globalization and localization (broadly construed), 
 - data attribution in language models, and
-- structured document summarization
+- web-as-corpus.
 
 ### Publications
 - [_Probing Pretraining "Quality": Sociolinguistic Mobility as a Lens on Web Corpus Filters_.](/assets/probing-pretraining-quality.pdf){:target="_blank"} In Proceedings of the EMNLP 2026 Web-as-Corpus Workshop (WaC-13). October 2026. (Poster presentation.)
